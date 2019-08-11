@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "likes": 0,
+      "name": "jessie",
+      "image": "http://cdn.shopify.com/s/files/1/0013/5649/7014/products/Toy_Story_Jessie_UDF_1024x1024.jpg?v=1546541208",
+      "id": 9
+    },
+    {
+      "likes": 0,
+      "name": "moose",
+      "image": "https://www.alaskawildlife.org/wp-content/uploads/2016/12/moose-face.jpg",
+      "id": 10
     }
   ]
 }
