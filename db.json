@@ -22,19 +22,19 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 11
     },
     {
       "id": 5,
       "name": "Rex",
       "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "likes": 14
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 12
     },
     {
       "id": 7,
@@ -46,7 +46,25 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
+    },
+    {
+      "likes": 90,
+      "name": "Moose",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTExIWFhUXGBgYGBgYFxgdGhkYGBgaGBgXFxgYHSggHRslGxgYITEiJSkrLi4uGCAzODMtNygtLisBCgoKDg0OGhAQGi0lHyUtLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAIEBQYBBwj/xABAEAABAwIEAwUGAwcDBAMBAAABAAIRAyEEEjFBBVFhBiJxgZETMqGxwfBC0eEHFCNSYoLxFXLCJDNTkjREshb/xAAaAQADAQEBAQAAAAAAAAAAAAAAAQMCBAUG/8QALREAAgIBAwIEBAcBAAAAAAAAAAECEQMSITEEQRMiUaFxgZHwBRQyQmHR4VL/2gAMAwEAAhEDEQA/APcUlyUpQB1VGDMYjEtJsRTd4S0gn5eitsyqqDv+sqcvZNnxB/IoAsMHVDmMcNC0H1CMqrs5XBw1IEyQ2OsNJbPw1VogDqSSSAEkkkgBJJJIASSSSAEkkkgBJJJIASSSSAEkuOcAJJgLMcS489xc2n3W6Ztz1HJajBy4Myko8mnldWBoV3tcHhxnmpWJ45UiM5+H0VHhfYn4yNVjeIU6XvOudALk+X5rP8S4w6p3Wy1m/M+MKj9oeWu538U1z73+/BbjiSJyytk0kJshRm1E8uWtJMII0TkDOu50UIMV2UEP81zMQigCyuEpgeuooB2dJMhJFAb5KURNLVy2d1Ai/pP31VBjq76eMpukRUplsdQbXNp01WiLFTdpuHNq0pLwxzLtcSIn+UzsU7QUD7HvAw9/5nS7QEz4nQRfRXraoOl/D81kezFdjZa99NjnOljXFpJkCcpm4mRZaoSNvT8kbMHaDyupgKreO8dpYRgdVJ7xhoGpjXyCyxrctUlC4RxOniKQq0jLT6gjU",
+      "id": 9
+    },
+    {
+      "likes": 12,
+      "name": "Lion",
+      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
+      "id": 10
+    },
+    {
+      "likes": 39,
+      "name": "Annabelle",
+      "image": "https://ksassets.timeincuk.net/wp/uploads/sites/55/2019/06/Annabelle-920x584.jpg",
+      "id": 11
     }
   ]
 }
